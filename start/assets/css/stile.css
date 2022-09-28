@@ -1,0 +1,94 @@
+/* IMPOSTAZIONI GENERALI */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+/* HEADER */
+body {
+    font-family: 'Raleway', sans-serif;
+    width: 270px;
+}
+
+header {
+    /* width: 500px; */
+    text-transform:uppercase;
+    text-align: center;
+    background-color: #03b9d9;
+    color: #fff;
+    /* width: 300px; */
+}
+header span {
+    font-size: 1rem;
+    color: #03b9d9;
+    background-color: #fff;
+}
+
+header h2 {
+    color: black;
+    font-size: 0.8rem;
+    text-transform: capitalize;
+}
+/* MAIN */
+
+section {
+    line-height: 1.5;
+}
+
+section h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #007c92;
+}
+
+figure {
+    text-align: center;
+}
+
+address {
+    text-align: center;
+}
+
+/* address */ b {
+    font-weight: bold;
+}
+
+a {
+    color: #ff0000;
+}
+
+blockquote {
+    background-color: #d3d3d3;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+strong {
+    color: #007c92;
+}
+
+mark {
+    color: #fff;
+    background-color: #007c92;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+hr {
+    border-style: dashed;
+}
+
+
+/* ELEMENTI NEL MAIN */
+
+/* FOOTER */
+
+footer {
+    background-color: #3a3a3a;
+    color: #fff;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+small {
+    font-size: 0.7em;
+}
